@@ -32,4 +32,4 @@ This app is built to enhance the knowledge of APIs.
 • AJAX <br>
 • DBCP (Database Connection Pooling) <br>
 
-![frontend ui](ScreanShots/Web_POS_SS.png)
+![frontend ui](Screenshots/Web_POS_SS.png)
